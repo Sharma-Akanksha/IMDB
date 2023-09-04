@@ -5,7 +5,7 @@ I had to make this project 3 times from the bottom just because my code got all 
 I will add more feature soon.
 
 Thankyou Coding Ninjas for giving this wonderful and challenging project. 
-###### Live link: https://github.com/Sharma-Akanksha/IMDB/
+###### Live link: [https://github.com/Sharma-Akanksha/IMDB/](https://sharma-akanksha.github.io/IMDB/)
 
 
 ## Preview
